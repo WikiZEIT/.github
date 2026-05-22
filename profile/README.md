@@ -1,4 +1,4 @@
-# [WikiZEIT](https://jcubic.pl/wikizeit/)
+# [WikiZEIT](https://wikizeit.edu.pl)
 
 ![WikiZEIT Banner](banner.png)
 
